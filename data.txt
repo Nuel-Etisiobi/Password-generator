@@ -1,0 +1,20 @@
+website: john 
+email_address: etibaba16@gmail.com 
+password: basee
+
+website: github 
+email_address: etibaba16@gmail.com 
+password: shejhe
+
+website: geeksforgeeks 
+email_address: etibaba16@gmail.com 
+password: sandra
+
+website: jack 
+email_address: etibaba16@gmail.com 
+password: $$&k%gg6gaf6Vts2
+
+website: hdytutyf 
+email_address: etibaba16@gmail.com 
+password: 9]G4dD}7fJ3
+
